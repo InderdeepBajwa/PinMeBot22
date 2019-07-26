@@ -1,0 +1,15 @@
+C:\Users\inderdeepbajwa\source\repos\PinMeBot22\PinMeBot22\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\inderdeepbajwa\source\repos\PinMeBot22\PinMeBot22\bin\Debug\netcoreapp2.1\PinMeBot22.deps.json
+C:\Users\inderdeepbajwa\source\repos\PinMeBot22\PinMeBot22\bin\Debug\netcoreapp2.1\PinMeBot22.runtimeconfig.json
+C:\Users\inderdeepbajwa\source\repos\PinMeBot22\PinMeBot22\bin\Debug\netcoreapp2.1\PinMeBot22.runtimeconfig.dev.json
+C:\Users\inderdeepbajwa\source\repos\PinMeBot22\PinMeBot22\bin\Debug\netcoreapp2.1\PinMeBot22.dll
+C:\Users\inderdeepbajwa\source\repos\PinMeBot22\PinMeBot22\bin\Debug\netcoreapp2.1\PinMeBot22.pdb
+C:\Users\inderdeepbajwa\source\repos\PinMeBot22\PinMeBot22\obj\Debug\netcoreapp2.1\PinMeBot22.csprojAssemblyReference.cache
+C:\Users\inderdeepbajwa\source\repos\PinMeBot22\PinMeBot22\obj\Debug\netcoreapp2.1\PinMeBot22.csproj.CoreCompileInputs.cache
+C:\Users\inderdeepbajwa\source\repos\PinMeBot22\PinMeBot22\obj\Debug\netcoreapp2.1\PinMeBot22.RazorAssemblyInfo.cache
+C:\Users\inderdeepbajwa\source\repos\PinMeBot22\PinMeBot22\obj\Debug\netcoreapp2.1\PinMeBot22.RazorAssemblyInfo.cs
+C:\Users\inderdeepbajwa\source\repos\PinMeBot22\PinMeBot22\obj\Debug\netcoreapp2.1\PinMeBot22.AssemblyInfoInputs.cache
+C:\Users\inderdeepbajwa\source\repos\PinMeBot22\PinMeBot22\obj\Debug\netcoreapp2.1\PinMeBot22.AssemblyInfo.cs
+C:\Users\inderdeepbajwa\source\repos\PinMeBot22\PinMeBot22\obj\Debug\netcoreapp2.1\PinMeBot22.RazorTargetAssemblyInfo.cache
+C:\Users\inderdeepbajwa\source\repos\PinMeBot22\PinMeBot22\obj\Debug\netcoreapp2.1\PinMeBot22.dll
+C:\Users\inderdeepbajwa\source\repos\PinMeBot22\PinMeBot22\obj\Debug\netcoreapp2.1\PinMeBot22.pdb
